@@ -1,3 +1,0 @@
-**Version** | **Date Modified (DD-MM-YYYY)**|     **ChangeHistory**                                                                      |
-|------------|-------------------------------|-------------------------------------------------------------------------------------------|
-| 3.0.0      | 16-12-2025                    | Added Initial changes for Playbooks, Data Connectors and Analytics Rules.                 |
